@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SACardStack_Example' do
+  pod 'SACardStack', :path => '../'
+
+  target 'SACardStack_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
