@@ -1,0 +1,16 @@
+PODS:
+  - SACardStack (0.1.0)
+
+DEPENDENCIES:
+  - SACardStack (from `../`)
+
+EXTERNAL SOURCES:
+  SACardStack:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SACardStack: b6a43c1ad47888ba54c37dcc4c2035179a23dd00
+
+PODFILE CHECKSUM: 3fddfef5899a650662c2b8587ee0c46adb604736
+
+COCOAPODS: 1.5.3

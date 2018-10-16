@@ -1,0 +1,6 @@
+framework module SACardStack {
+  umbrella header "SACardStack-umbrella.h"
+
+  export *
+  module * { export * }
+}
